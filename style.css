@@ -3,6 +3,9 @@ body{
     margin: 0;
     padding: 0;
 }
+section{
+    overflow: hidden;
+}
 .width-half{
     width: 40%;
     margin: 5%;
@@ -12,12 +15,56 @@ body{
     font-size: 50px;
     line-height: 10px;
 }
-.color-red{
-    color:red;
-}
 .width-half img{
     width: 100%;
 }
-img{
-    width: 100%;
+.color-red{
+    color:red;
 }
+
+.width-onethird{
+    width: 29%;
+    padding: 1%;
+    margin: 1%;
+    float: left;
+    background: white;
+    border-radius: 10px;
+}
+.pro-section img{
+ width: 100%;
+}
+.pro-section{
+    background: #F7F8FB;
+    padding:100px;
+}
+.pro-section h1{
+    font-size: 30px;
+    text-align: center;
+}
+.my-services{
+    padding:100px;
+}
+.my-services h1{
+    font-size: 30px;
+    text-align: center;
+}
+.in-div{
+    background-image: url("images/in-back.png");
+    background-repeat: no-repeat;
+    background-size: 70%;
+    margin: 2% 10%;
+    margin-left: 300px;
+    
+}
+.in-div h2{
+    font-size: 40px;
+    color: white;
+}
+a{
+    text-decoration: none;
+    background: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+
