@@ -1,0 +1,23 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.width-half{
+    width: 40%;
+    margin: 5%;
+    float: left;
+}
+.width-half h1{
+    font-size: 50px;
+    line-height: 10px;
+}
+.color-red{
+    color:red;
+}
+.width-half img{
+    width: 100%;
+}
+img{
+    width: 100%;
+}
