@@ -1,2 +1,6 @@
 # milon-portfolio
-<a href="https://milonjpi.github.io/milon-portfolio/">Live Site</a>
+
+#Technology:
+HTML, CSS.
+
+<a href="https://milonjpi.github.io/milon-portfolio/index.html">Live Site</a>
